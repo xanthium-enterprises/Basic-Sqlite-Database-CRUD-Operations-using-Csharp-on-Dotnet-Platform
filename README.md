@@ -1,2 +1,2 @@
-# Basic-Sqlite-Database-CRUD-Operations-using-Csharp-on-Dotnet-Platform
+# Basic Sqlite Database CRUD Operations using C# on .NET Platform for beginners
  
