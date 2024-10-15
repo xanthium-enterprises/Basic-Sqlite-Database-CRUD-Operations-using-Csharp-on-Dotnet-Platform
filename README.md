@@ -19,4 +19,11 @@
 	- Visual Studio Project files
 	- Sample Sqlite Database
 
- 
+ - Some Screenshots
+
+ - Reading rows from sqlite database using C#
+ 	-![Reading rows from sqlite database using C#](https://www.xanthium.in/sites/default/files/inline-images/read-rows-from-sqlite-database-output.jpg)
+
+ -Updating Rows of Sqlite DB from Command line using C#
+ -![Updating Rows of Sqlite DB from Command line using C#](https://www.xanthium.in/sites/default/files/inline-images/program-update-sqlite-databse-csharp.jpg)
+
