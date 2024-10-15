@@ -10,7 +10,7 @@
 
 - In this repo you will find C# source codes for performing **CRUD** operations on a **SQLite3** Database using **C#** (CSharp) along with a sample Sqlite database to practise.
 
-- We have an online tutorial as well as a Youtube Video for beginners (link below) who are new to **C#** and **SQlite 3** Database that will teach the user
+- We have an online tutorial as well as a Youtube Video for beginners (link above) who are new to **C#** and **SQlite 3** Database that will teach the user
 	- *How to setup Visual Studio to communicate with Sqlite 3 Database*
 	- *How to setup .NET CLI Project to communicate with Sqlite 3 Database*
 	- *How to create a table inside the SQlite3 database using C#* 
