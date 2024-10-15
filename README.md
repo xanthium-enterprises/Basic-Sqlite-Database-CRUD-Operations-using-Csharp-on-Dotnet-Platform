@@ -16,10 +16,14 @@
 
 - [Learn to Create,Read,update and delete records,tables from a SQlite3 database using C# on .NET Platform for the absolute Beginner](https://www.xanthium.in/cross-platform-create-connect-update-sqlite3-database-using-csharp-dotnet-platform)
 
+- Youtube Tutorial 
+
 ## Repo Contents 
-	- C# Source Codes
-	- Visual Studio Project files
-	- Sample Sqlite Database
+
+- C# Source Codes
+- Visual Studio Project files
+- Sample Sqlite Database
+
 
  ## Some Screenshots
 
@@ -28,4 +32,12 @@
 
  - Updating Rows of Sqlite DB from Command line using C#
  - ![Updating Rows of Sqlite DB from Command line using C#](https://www.xanthium.in/sites/default/files/inline-images/program-update-sqlite-databse-csharp.jpg)
+
+
+#Additional Links 
+
+- [Learn to Configure .NET SDK CLI for Software development Tutorial](https://www.xanthium.in/dotnet-platform-software-development-using-command-line-compiler-tools-net-sdk)
+
+- [Creating Simple CSV files using C# on .NET Platform](https://www.xanthium.in/how-to-create-read-write-data-to-csv-file-using-csharp-dotnet-platform)
+
 
