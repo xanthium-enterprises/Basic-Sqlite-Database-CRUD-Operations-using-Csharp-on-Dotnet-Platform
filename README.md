@@ -4,7 +4,8 @@
 
 - [Learn to Create,Read,update and delete records,tables from a SQlite3 database using C# on .NET Platform for the absolute Beginner](https://www.xanthium.in/cross-platform-create-connect-update-sqlite3-database-using-csharp-dotnet-platform)
 
-- Youtube Tutorial 
+- **Youtube Tutorial**
+	-[Video Tutorial on How to connect C# with SQLite Database for performing CRUD operations](https://www.youtube.com/watch?v=HqywH0bZJlA)
 
 ## Introduction 
 
