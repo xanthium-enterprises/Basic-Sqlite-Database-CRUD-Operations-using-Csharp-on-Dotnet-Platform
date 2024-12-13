@@ -7,6 +7,8 @@
 - **Youtube Tutorial**
 	-[Video Tutorial on How to connect C# with SQLite Database for performing CRUD operations](https://www.youtube.com/watch?v=HqywH0bZJlA)
 
+- If you are  interested in using **SQlite database with WinForms**,do check our [Learn to integrate SQLite database with WinForms Application using C# Tutorial](https://www.xanthium.in/building-csharp-sqlite-gui-crud-applications-using-winforms-api-tutorial) where you learn to display the sqlite table data on a Windows Form and Manipulate it.
+
 ## Introduction 
 
 - In this repo you will find C# source codes for performing **CRUD** operations on a **SQLite3** Database using **C#** (CSharp) along with a sample Sqlite database to practise.
